@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed&family=Dangrek&display=swap');
+body{
+    background-color: blue;
+    margin-left: 35%;
+}
+h1{
+    font-family: 'Dangrek';
+}
+
+p, a{
+    font-family: 'Barlow Condensed';
+    font-size: 20px;
+}
+
+h1, p, a{
+    color: white;
+}
+
+
